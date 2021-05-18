@@ -2,7 +2,7 @@
 
 Django Web Page
 
-## Instalation
+## Installation
 
 `pip3 install -r requirements.txt`
 
