@@ -1,0 +1,12 @@
+from django.shortcuts import render
+
+# Create your views here.
+
+def home(request):
+    return render(request, 'app/home.html')
+
+def galery(request):
+    return render(request, 'app/galery.html')
+
+def contact(request):
+    return render(request, 'app/contact.html')
